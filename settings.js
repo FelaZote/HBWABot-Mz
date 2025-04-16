@@ -19,11 +19,11 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
+global.owner = ['918730036179'] // I phone number in thlak rawh
+global.ownernumber = '918730036179' // I phone number in thlak rawh
+global.ownername = "FelaZote" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.botname = "Chill Pill" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
